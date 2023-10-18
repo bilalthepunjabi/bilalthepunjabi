@@ -2,11 +2,10 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 Working as a Rect Js Developer on freelancing sites
 - 🔭 Working as a Full Stack Developer in Traxim Technology
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2021 Goals: Explore AWS.
+- 🥅 2023 Goals: Explore AI, Machine Learning and model training.
 
 ### Projects 
 
