@@ -1,6 +1,6 @@
 ### Hi there I'm Bilal Punjabi 👋
 
-## I'm a Full Stack Developer !
+## I'm a Technical Project Manager !
 
 - 🔭 Working as a Technical Project Manager in Traxim Technologies
 - 🌱 Follwing Advanced TypeScript
