@@ -5,7 +5,7 @@
 - 🔭 Working as a Full Stack Developer in Traxim Technology
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
-- 🥅 2023 Goals: Explore AI, Machine Learning and model training.
+- 🥅 2025 Goals: Explore AI, Machine Learning and model training.
 
 ### Projects 
 
