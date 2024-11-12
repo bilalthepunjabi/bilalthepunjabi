@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer !
 
-- 🔭 Working as a Full Stack Developer in Traxim Technology
+- 🔭 Working as a Technical Project Manager in Traxim Technologies
 - 🌱 Follwing Advanced TypeScript
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2025 Goals: Explore AI, Machine Learning and model training.
